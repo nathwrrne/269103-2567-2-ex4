@@ -34,9 +34,12 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+1) git revert = -can undo or back to any previous commit that we want to.
+	 	-for new engineers, this command allows you to change the commit by not deleting the history, it really good for your teammate to check out any changes on the work while working together.
+2) git branch = -this command allow you to create a separate room from the main for editing code or fix any bug by not affecting the main code and you can merge it together when it work correctly.
+		-it help engineer edit anything from the main code and can switch between branch while working. this avoid editor mistakes, so it's essential for coder.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Before getting deeper, you must know that you are really into it. Otherwise, you're going to hell! (and I'm on the way)
