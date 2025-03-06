@@ -42,4 +42,4 @@
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-Before getting deeper, you must know that you are really into it. Otherwise, you're going to hell! (and I'm on the way)
+Before getting deeper, you must know that you are really into it. Otherwise, you're going to hell! (and I'm on the way) furthermore, you have to know all about the future course that you will study and It's good if you're already have a foundation before learning. Good luck everyone ^^ but trust me, you have a greatest professor!
